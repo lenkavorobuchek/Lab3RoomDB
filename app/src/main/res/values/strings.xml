@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Room Application</string>
+    <string name="create_user">Create user</string>
+    <string name="view_for_looking_on_users_data">View for looking on users data</string>
+    <string name="id">Position</string>
+    <string name="change_user_info">Change user info</string>
+    <string name="delete_user">Delete user</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="patronymic">Patronymic</string>
+    <string name="apply">Apply</string>
+    <string name="name_hint">Name</string>
+    <string name="surname_hint">Surname</string>
+    <string name="patronymic_hint">Patronymic</string>
+    <string name="select_needed_fields_port" translatable="false">last_name | first_name | patr_name</string>
+    <string name="select_needed_fields_land" translatable="false">last_name | first_name | patr_name | phone_number | email | study_place | work_place</string>
+    <string name="work_place">work Place</string>
+    <string name="study_place">study Place</string>
+    <string name="email">email</string>
+    <string name="phone_number">phone Number</string>
+    <string name="clear_all">Clear all</string>
+    <string name="default_fill">Default fill</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё Room приложение</string>
+    <string name="create_user">Создать запись</string>
+    <string name="view_for_looking_on_users_data">Окно для отображения данных</string>
+    <string name="id">Позиция</string>
+    <string name="change_user_info">Изменить запись</string>
+    <string name="delete_user">Удалить запись</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="apply">Применить</string>
+    <string name="name_hint">Имя</string>
+    <string name="surname_hint">Фамилия</string>
+    <string name="patronymic_hint">Отчество</string>
+    <string name="work_place">Место работы</string>
+    <string name="study_place">Место учебы</string>
+    <string name="email">Почта</string>
+    <string name="phone_number">Телефон</string>
+    <string name="clear_all">Убрать все</string>
+    <string name="default_fill">Заполнить</string>
+</resources>
